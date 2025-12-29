@@ -1,0 +1,9 @@
+{
+  "name": "我的番茄鐘",
+  "short_name": "番茄鐘",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#e74c3c",
+  "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3239/3239147.png", "sizes": "512x512", "type": "image/png" }]
+}
